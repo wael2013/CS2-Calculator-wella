@@ -1,0 +1,4 @@
+D:/Git_Repo/CS2-Calculator-wella/build/CMakeFiles/calculator.dir
+D:/Git_Repo/CS2-Calculator-wella/build/CMakeFiles/calculator_test.dir
+D:/Git_Repo/CS2-Calculator-wella/build/CMakeFiles/edit_cache.dir
+D:/Git_Repo/CS2-Calculator-wella/build/CMakeFiles/rebuild_cache.dir
